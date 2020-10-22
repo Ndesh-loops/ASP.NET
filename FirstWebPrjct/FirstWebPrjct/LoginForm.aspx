@@ -20,9 +20,10 @@
             margin-right:auto;
         }
         .container{
-            margin-left:90px;
+            margin-left:auto;
             height: 288px;
             width: 402px;
+            margin-right:auto;
         }
         .txtbtn{
             border: 1px solid blue;
@@ -44,7 +45,8 @@
 <body>
     <form id="form1" runat="server">
         <div>
-            <img src="Images/iconfinder_login_enter_sign_in_input_access_3994380.png" style="height: 150px; width: 621px" /> 
+            <img src="Images/iconfinder_login_enter_sign_in_input_access_3994380.png" style="height: 191px; width: 621px" /> 
+            <br />
         </div>
         <div class ="container">
 

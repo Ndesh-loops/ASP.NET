@@ -76,7 +76,7 @@
             <br />
             <br />
            
-            <asp:TextBox ID="TextBox5" CssClass="txtbtn" placeholder="Enter your Password" runat="server" Height="27px" Width="673px"></asp:TextBox>
+            <asp:TextBox ID="TextBox5" CssClass="txtbtn" placeholder="Enter your Password" runat="server" Height="27px" Width="673px" AutoPostBack="True"></asp:TextBox>
             <br />
             <br />
             <asp:TextBox ID="TextBox6" CssClass="txtbtn" placeholder="Confirm Password" runat="server" Height="26px" Width="672px"></asp:TextBox>
